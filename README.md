@@ -1,6 +1,3 @@
-Certainly! Below is an example README file for a calculator, including features and programming languages used. Adjust the content according to your specific calculator implementation.
-
-```markdown
 # Calculator App
 
 ## Overview
