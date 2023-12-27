@@ -41,7 +41,6 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## Acknowledgments
 
-- Inspired by @KodeCamp 30daysCodeChallenge.
+- Inspired by @KodeCamp #30daysCodeChallenge
 
 Happy Calculating!
-```
